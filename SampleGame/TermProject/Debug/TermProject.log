@@ -1,0 +1,13 @@
+﻿  DirectSound.cpp
+  MyDirectX.cpp
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+C:\Users\jchan\Desktop\Developer\Projects\Saitama Game\TermProject\MyDirectX.cpp(79,49): warning C4838: conversion from 'unsigned long' to 'LONG' requires a narrowing conversion
+C:\Users\jchan\Desktop\Developer\Projects\Saitama Game\TermProject\MyDirectX.cpp(79,69): warning C4838: conversion from 'unsigned long' to 'LONG' requires a narrowing conversion
+  MyWindows.cpp
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+  SaitamaGame.cpp
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+C:\Users\jchan\Desktop\Developer\Projects\Saitama Game\TermProject\SaitamaGame.cpp(836,10): warning C4101: 'result': unreferenced local variable
+C:\Users\jchan\Desktop\Developer\Projects\Saitama Game\TermProject\SaitamaGame.cpp(835,17): warning C4101: 'info': unreferenced local variable
+  Generating Code...
+  TermProject.vcxproj -> C:\Users\jchan\Desktop\Developer\Projects\Saitama Game\Debug\TermProject.exe
